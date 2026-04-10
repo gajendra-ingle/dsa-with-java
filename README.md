@@ -1,2 +1,14 @@
- # DSA with Java
-A structured, well-organized repository for learning and practicing Data Structures & Algorithms using Java. 
+# DSA with Java
+ 
+Practice repository for Data Structures & Algorithms implemented in Java.
+ 
+## Topics Covered
+ 
+- Arrays
+- Linked List
+- Stack
+- Queue
+- Trees
+- Graphs
+- Recursion
+- Sorting
